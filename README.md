@@ -37,5 +37,8 @@ This project can be used as a reference for:
 - Educational data visualization.
 - Statistical studies on student performance.
 
+## 🖼 Spreadsheet Preview
+![Spreadsheet Preview](spreedsheet.png)
+
 ## 🤝 Contributing
 If you'd like to contribute or suggest improvements, feel free to open an issue or submit a pull request.
